@@ -1,0 +1,265 @@
+#case{
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+}
+#tof{
+    position: absolute;
+    width: 80%;
+    height: 490px;
+    margin-left: 10%;
+    background-image: url(img-bg.jpg);
+}
+#liste{
+    width: 204px;
+    height: 130px;
+    background-color:rgb(226, 223, 220);
+    margin-top: 8%;
+}
+#LQ {
+    font-size: 16px;
+    margin-left: -10%;
+    
+}
+#LQ img{
+    margin-left: 2%;
+    align-items: flex-end;
+}
+#LQ1 img{
+    margin-left: 2%;
+}
+#LQ2 img{
+    margin-left: 2%;
+}
+#LQ3 img{
+    margin-left: 0%;
+}
+#LQ1{
+    font-size: 16px;
+    margin-top: 2%;
+    margin-left: -10%;
+}
+#LQ2{
+    font-size: 16px;
+    margin-top: 2%;
+    margin-left: -10%;
+}
+#LQ3{
+    font-size: 16px;
+    margin-top: 2%;
+    margin-left: -10%;
+}
+#img3{
+    position: absolute;
+    width: 5%;
+    margin-left: 4%;
+    height: 100%;
+}
+#img0{
+    width: 6%;
+    height: 100%;
+    margin-left: 6%;
+}
+.icon1{
+    position: absolute;
+    width: 100%;
+    height: 15%;
+    background-color: black;
+}
+.bande1{
+
+    width: 35%;
+    height: 90px;
+    margin-top: 4%;
+    margin-left: 1.5%;
+    position: absolute;
+    background-color:  rgb(148, 178, 245);
+}
+.icon1 h2{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 36%;
+    color: white;
+}
+#part{
+    position: absolute;
+    width: 94%;
+    height: 84%;
+    background-color: rgb(243, 239, 239);
+    margin-left: 3%;
+    margin-top: 12%;
+}
+
+#bt{
+    position: absolute;
+    width: 15%;
+    height: 40%;
+    margin-left: 82%;
+    margin-top: -6%;
+    background-color:  rgb(148, 178, 245);
+}
+
+#navigation{
+    position: absolute;
+    text-decoration: none;
+    margin-top: 6%;
+    margin-left: -4%;
+
+}
+#navigation li a{
+    display: ruby-base-container;
+    text-decoration: none;
+    list-style: none;
+
+}
+#navigation li{
+    list-style: none;
+
+}
+.bande{
+    position: absolute;
+    width: 100%;
+    height: 15%;
+    margin-top: 0%;
+    background-color: rgb(158, 179, 224);
+}
+.bande h5{
+    margin-left: 30%;
+    color: white;
+    margin-top: 4%;
+}
+#champ{
+    position: absolute;
+    width: 60%;
+    height: 68%;
+    margin-top: 13%;
+    background-color:white;
+    margin-left: 38%;}
+    #champ h5{
+        margin-left: 6%;}
+  
+.input1{
+    position: absolute;
+    margin-left: 4%;
+    width: 50%;
+    height: 5%;
+    margin-top: 0%;
+}
+    
+.input2{
+    position: absolute;
+    margin-left: 4%;
+    width: 50%;
+    height: 5%;
+    margin-top: 4%;
+}
+.input3{
+    position: absolute;
+    margin-left: 4%;
+    width: 50%;
+    height: 5%;
+    margin-top: 8%;
+}
+.input4{
+    position: absolute;
+    margin-left: 4%;
+    width: 50%;
+    height: 5%;
+    margin-top: 12%;
+}
+.input5{
+    position: absolute;
+    margin-left: 4%;
+    width: 50%;
+    height: 5%;
+    margin-top: 16%;
+}
+    
+
+.prenom{
+    margin-left: 4%;
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 6%;
+    font-size: 8px;
+}
+.fil
+{
+    position: absolute;
+margin-left: 36%;
+margin-top: 17%;
+height: 10%;
+width: 19%;
+background-color:  rgb(158, 179, 224);
+}
+.login{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: 3%;
+    font-size: 8px;
+
+}
+.nom{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: -1%;
+    font-size: 8px;
+}
+.pwd{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: 7%;
+    font-size: 8px;
+    
+}
+.pwd2{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: 11%;
+    font-size: 8px;
+}
+.avt{
+    position: absolute;
+    margin-left: 4%;
+    margin-top: 10%;
+}
+#img1{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: -50%;
+    width: 30%;
+    height: 45%;
+}
+#img2{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: -36%;
+    width: 40%;
+    height: 80%;
+}
+.QZ{
+    margin-top: -10%;
+    margin-left: 4%;
+    font-size: 8px;
+}
+.avatar{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 18%;
+    width: 24%;
+    height: 6%;
+    background-color:   rgb(158, 179, 224);
+}
+hr{
+    width: 60%;
+    margin-left: 0%;
+ color: gray;
+}
+#HR1{
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 0%;
+ color: gray;
+}
+
+
